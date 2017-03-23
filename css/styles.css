@@ -1,0 +1,60 @@
+p{
+	font-size: 16px;
+}
+
+h4 {
+	color:#800080;
+	font-size: 20px;
+}
+body {
+	background-color:#F5F5F5;
+}
+.card {
+	margin-bottom: 10px;
+}
+
+.nav-item {
+	font-size: 16px;
+}
+.navbar-brand {
+	font-size: 20px
+}
+
+.container {
+	margin-top: 70px;
+}
+.navbar {
+	background-color: #9932CC!important;
+	border: 0;
+}
+
+.description {
+  background-image: url("../img/flower.jpg");
+}
+.jumbotron {
+  background-image: url("https://img.clipartfest.com/55b62c46e9d4e21cdd298f89c4962227_images-for-hawaiian-print-aloha-print-background-clipart_1600-1200.jpeg");
+  background-size: cover;
+  color: white;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.display-3 {
+	font-size: 100px
+}
+
